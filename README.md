@@ -1,0 +1,3 @@
+ Leaf Classification for Sustainable Agriculture
+
+This project is a deep learning-based leaf classification and plant disease detection system developed using NASNetMobile and TensorFlow. The system automatically identifies plant species and detects leaf diseases from uploaded images by learning complex features without manual feature extraction. A user-friendly Flask web application allows users to upload leaf images and receive accurate predictions in real time. The project aims to support precision agriculture, crop monitoring, and sustainable farming by providing an efficient and scalable solution for plant identification and disease diagnosis.
